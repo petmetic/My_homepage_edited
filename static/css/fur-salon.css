@@ -1,0 +1,150 @@
+:root {
+    color: white;
+    color: #ea4c89;
+    color: #444444;
+    color: #3a8bbb;
+    color: #c142a0;
+    color: #00b6e3;
+
+}
+
+.navbar-custom {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.color-background {
+    background: rgb(58, 139, 187);
+    background: radial-gradient(circle, rgba(58, 139, 187, 1) 0%, rgba(0, 182, 227, 1) 100%);
+}
+
+.logo {
+    font-family: "Rubik Bubbles", serif;
+    font-size: 45px;
+    color: white;
+}
+
+.nav-text {
+    color: white;
+}
+
+.nav-text:hover {
+    color: #444444;
+}
+
+.nav-text:active {
+    color: #ea4c89;
+}
+
+.button-search {
+    color: white;
+    border-color: transparent;
+    background-color: #444444;
+}
+
+.button-search:hover {
+    background-color: #ea4c89;
+    border-color: transparent;
+}
+
+.background {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+.our-services {
+    padding: 80px 150px 40px 150px;
+}
+
+.color-icon-primary {
+    fa-primary: #3a8bbb;
+    fa-secondary: #444444;
+}
+
+.color-icon-secondary{
+    fa-primary: #3a8bbb;
+    fa-secondary: #444444;
+}
+
+}
+.header-text {
+    margin-bottom: 50px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: black;
+}
+
+.card-text-header {
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: black;
+}
+
+.card-services {
+    padding: 1rem;
+}
+
+.icon {
+    width: 2rem;
+    height: 2rem;
+}
+
+.text-in-card {
+    margin-bottom: 50px;
+}
+
+.card-img-top {
+    max-width: 100%;
+}
+
+.cat-card {
+    min-height: 700px;
+    padding: 50px;
+    background-color: white;
+}
+
+.header-text-2 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    color: black;
+}
+
+.form-info {
+    font-family: Montserrat, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #7E57C2;
+    min-width: 100%;
+    margin: 3px;
+}
+
+.time-table {
+    border-color: black;
+
+}
+
+.about-us-kitty-pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+    align-items: center;
+    background-color: transparent;
+}
+
+.footer-img-middle {
+    width: 100px;
+}
+
+ul {
+    list-style-type: none;
+}

@@ -1,0 +1,88 @@
+header {
+    background-color: #5C6BC0;
+    padding: 20px;
+    font-style: italic;
+
+}
+
+.body {
+    background-color: #E8EAF6;
+    font-family: 'Red Hat Mono', monospace;
+}
+
+.background-body {
+    margin: 50px;
+}
+
+.logo {
+    color: #CCCCFF;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: Verdana, serif;
+    line-height: 50px;
+    letter-spacing: -2px;
+    text-align: right;
+    background-color: #fff;
+    margin: 0;
+    background-color: rgba(0, 2, 5, 0.5);
+    padding: 5px 10px;
+    text-shadow: white 1px 0 1px;
+}
+
+.search {
+    color: #616161;
+    font-size: 20px;
+}
+
+.search2 {
+    color: #616161;
+    width: 30%;
+}
+
+.search2::placeholder {
+    color: #8E24AA;
+}
+
+.name {
+    font-size: 50px;
+    color: #7E57C2;
+}
+
+.avatar {
+    border: 4px;
+    border-radius: 20px;
+    padding: 10px;
+    transition: border-radius 5s ease,
+    transform 6s ease-out;
+}
+
+.avatar:hover {
+    transform: rotate(20deg);
+    border-radius: 400px;
+
+}
+
+.friend-button {
+    color: #8E24AA;
+    font-weight: bold;
+}
+
+.main-text {
+    color: #616161;
+    font-size: 20px;
+}
+
+.left {
+    width: 30%;
+    float: left;
+}
+
+.right {
+    width: 70%;
+    float: left;
+}
+
+footer {
+    background-color: #5C6BC0;
+    padding: 30px;
+}
